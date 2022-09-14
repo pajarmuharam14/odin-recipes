@@ -19,7 +19,7 @@ h1 {
 }
 
 .main {
-  height: 500px;
+  height: 700px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,11 +29,24 @@ h1 {
   background-color: rgb(238, 234, 234);
   border: 2px solid #333;
   border-radius: 15px;
-  width: 850px;
-  height: 400px;
+  width: 900px;
+  height: 550px;
 }
 
-.main-content img {
+.img-recipes img {
   width: 250px;
-  margin: 18px 15px;
+  margin: 18px 22px;
+}
+
+.link-recipes a {
+  display: block;
+  text-align: center;
+  margin: 40px 5px;
+  font-size: 22px;
+  text-decoration: none;
+  color: #333;
+}
+
+.link-recipes a:hover {
+  font-weight: bold;
 }
