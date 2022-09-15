@@ -1,3 +1,4 @@
+/* start all pages css styles */
 * {
   margin: 0;
   padding: 0;
@@ -32,7 +33,9 @@ h1 {
   width: 900px;
   height: 550px;
 }
+/* end all pages css styles */
 
+/* start styles for index.html */
 .img-recipes img {
   width: 250px;
   margin: 18px 22px;
@@ -50,3 +53,6 @@ h1 {
 .link-recipes a:hover {
   font-weight: bold;
 }
+/* end styles for index.html */
+
+/* start styles for fried-rice.html */
