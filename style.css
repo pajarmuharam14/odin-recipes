@@ -89,3 +89,10 @@ h2 {
   font-size: 20px;
   margin-bottom: 10px;
 }
+/* end styles for fried-rice.html */
+
+/* start style for nasi-padang.html */
+.img-nasi-padang {
+  text-align: center;
+  padding: 20px 0;
+}
