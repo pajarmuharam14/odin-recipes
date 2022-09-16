@@ -19,6 +19,10 @@ h1 {
   margin: 26px;
 }
 
+h2 {
+  padding: 15px;
+}
+
 .main {
   height: auto;
   margin: 20px;
@@ -62,20 +66,26 @@ h1 {
   padding: 20px 0;
 }
 
-h2 {
-  padding: 15px;
-}
-
-.description p {
+.description-fried-rice p {
   font-size: 20px;
   padding: 15px;
 }
 
-.ingredients ul {
+.ingredients-fried-rice ul {
   margin-left: 30px;
 }
 
-.ingredients ul li {
+.ingredients-fried-rice ul li {
   padding: 20px 0;
   font-size: 20px;
+}
+
+.steps-fried-rice ol {
+  margin-left: 30px;
+}
+
+.steps-fried-rice ol li {
+  padding: 10px 0;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
