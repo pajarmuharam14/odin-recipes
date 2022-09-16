@@ -120,3 +120,16 @@ h2 {
   font-size: 20px;
   margin-bottom: 10px;
 }
+/* end style for nasi-padang.html */
+
+/* start style for rawon.html */
+.img-rawon {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.description-rawon p {
+  font-size: 20px;
+  padding: 15px;
+}
+/* end style for rawon.html */
