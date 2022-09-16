@@ -58,5 +58,14 @@ h1 {
 /* start styles for fried-rice.html */
 .img-fried-rice {
   text-align: center;
-  padding: 20px;
+  padding: 20px 0;
+}
+
+h2 {
+  padding: 15px;
+}
+
+.description p {
+  font-size: 20px;
+  padding: 15px;
 }
